@@ -62,7 +62,7 @@ Y-axis: City Names
 ## 📊 Power BI Dashboard
 The interactive Power BI dashboard presents year-wise and city-wise agricultural production insights using dynamic visualizations.
 
-🔗 **Dashboard File:** [View Power BI Dashboard](dashboard/Agricultural_Production.pbix)
+🔗 **Dashboard File:** [View Power BI Dashboard](Agricultural_Production.pbix)
 
 📌 Key visuals included:
 - Year-wise agricultural production trend
